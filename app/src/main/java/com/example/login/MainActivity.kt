@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     private val usuarioCorrecto = "user@tic.unam.mx"
-    private val passwordCorrecta = "d1pl0m0v1l35?"
+    private val passwordCorrecta = "git branch"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
