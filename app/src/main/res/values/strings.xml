@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="login">Soluciones de Negocio</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="empty_email">Ingrese su correo</string>
+    <string name="invalid_email">Correo inválido</string>
+    <string name="empty_password">Ingrese su contraseña</string>
+    <string name="login_error">Usuario o contraseña incorrectos</string>
+    <string name="fields_error">Complete todos los campos</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="welcome_message">Bienvenido\n%1$s</string>
+    <string name="register">Registrarse</string>
+    <string name="forgot_password">¿Olvidó su contraseña?</string>
+    <string name="reset_here">Restablecer aquí</string>
+    <string name="company_description">Creamos soluciones tecnológicas innovadoras que ayudan a mejorar los procesos de tu organización.</string>
+    <string name="title_service">Nuestros servicios</string>
+    <string name="list_service"> ✓ Desarrollo de aplicaciones móviles\n\n✓ Sistemas empresariales\n\n✓ Soluciones digitales\n\n✓ Soporte tecnológico</string>
+    <string name="btn_continue">Continuar</string>
+</resources>

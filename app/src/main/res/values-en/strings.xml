@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Business Solutions</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="empty_email">Enter your email</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="empty_password">Enter your password</string>
+    <string name="login_error">Incorrect email or password</string>
+    <string name="fields_error">Please fill in all fields</string>
+    <string name="btn_login">Sign in</string>
+    <string name="welcome_message">Welcome\n%1$s</string>
+    <string name="register">Sign up</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="reset_here">Reset here</string>
+    <string name="company_description">We create innovative technological solutions that help improve your organization\'s processes.</string>
+    <string name="title_service">Our services</string>
+    <string name="list_service">
+        ✓ Mobile application development\n\n✓ Enterprise systems\n\n✓ Digital solutions\n\n✓ Technical support
+    </string>
+    <string name="btn_continue">Continue</string>
+</resources>
+

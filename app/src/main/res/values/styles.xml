@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema principal de la aplicación -->
+    <style name="Theme.Login" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <!-- Estilo común para botones de login y registro -->
+
+        <style name="btn_login" parent="Widget.MaterialComponents.Button">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:layout_marginTop">12dp</item>
+            <item name="android:backgroundTint">@color/button_login_selector</item>
+            <item name="android:textColor">@android:color/white</item>
+            <item name="android:textSize">16sp</item>
+            <item name="android:padding">12dp</item>
+            <item name="cornerRadius">8dp</item>
+        </style>
+
+    // Botón de registrarse
+    <style name="btn_register" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:backgroundTint">#BDBDBD</item> <!-- Gris fijo -->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="cornerRadius">8dp</item>
+
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+
+
+</resources>
