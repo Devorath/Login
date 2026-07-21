@@ -4,7 +4,7 @@ Resumen del funcionamiento
 Inicializa la interfaz mediante ActivityMainBinding, lo que permite acceder a los componentes del diseño sin usar findViewById.
 Define las credenciales válidas que se utilizarán para la autenticación:
 Correo: user@tic.unam.mx
-Contraseña: git branch
+Contraseña: d1pl0m0v1l35?
 Configura los márgenes de la pantalla (Edge-to-Edge) para que la interfaz se adapte correctamente a las barras del sistema.
 Deshabilita el botón "Login" al iniciar la aplicación.
 Escucha los cambios en los campos de correo y contraseña mediante addTextChangedListener; cuando ambos contienen texto, habilita el botón de inicio de sesión.
