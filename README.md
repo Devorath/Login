@@ -1,5 +1,4 @@
 ﻿# Iniciar sesión
-
 Resumen del funcionamiento
 Inicializa la interfaz mediante ActivityMainBinding, lo que permite acceder a los componentes del diseño sin usar findViewById.
 Define las credenciales válidas que se utilizarán para la autenticación:
